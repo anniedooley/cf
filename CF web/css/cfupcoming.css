@@ -1,0 +1,130 @@
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: black;
+	}
+
+header {
+background-image: url("images/chairs_header.jpg");
+	background-repeat: no-repeat;
+ display: block;
+    margin-left: auto;
+    margin-right: auto;
+height: 150px;
+width: 868px;
+}
+
+
+h1 {
+color: white;
+text-align: right;
+padding-right: 10px;
+padding-top: 12px;
+font-family: 'Cinzel', serif;
+font-size : 35px;
+}
+
+h4 {
+color: white;
+text-align: right;
+padding-right: 10px;
+font-family: 'Cinzel', serif;
+}
+
+footer {
+	
+	padding: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
+	
+	text-align: center;
+	position: bottom;
+
+	}
+
+
+#show1 {
+border-style: double;
+border-width: 1px;
+border-color: black;
+padding: 20px;
+padding-top: 0px;
+padding-bottom: 20px;
+background-color: #e0e0d1;
+}
+
+img {
+margin-right: 10px;
+}
+
+p {
+margin: 10px auto 10px; auto;
+text-align: left;
+
+}
+
+
+#show2 {
+padding-top: 0px;
+border-style: double;
+border-width: 1px;
+border-color: black;
+padding: 20px;
+background-color: #e0e0d1;
+}
+
+#show3 {
+padding-top: 0px;
+border-style: double;
+border-width: 1px;
+border-color: black;
+padding: 20px;
+background-color: #e0e0d1;
+}
+
+#show4 {
+padding-top: 0px;
+border-style: double;
+border-width: 1px;
+border-color: black;
+padding: 20px;
+background-color: #e0e0d1;
+}
+
+
+#show5 {
+padding-top: 0px;
+border-style: double;
+border-width: 1px;
+border-color: black;
+padding: 20px;
+background-color: #e0e0d1;
+}
+
+nav {
+width: 868px;
+float: left;
+text-align: center;
+display: in-line;
+margin-right: 15px; 
+padding-left: 40px;
+padding-right: 40px;
+padding-top: 5px;
+padding-bottom: 5px;
+background-color: grey;
+}
+
+a.bar:link {	
+	color: white;
+	padding-left: 60px;
+	 }
+
+a.bar:visited {
+	color: #550000;
+
+	}
+
+a.bar:hover {
+	color: #ff0000;
+	}
+	
